@@ -53,6 +53,7 @@ input {
     color: #666;
     border: none;
     padding: 0 5px;
+    font-weight: normal;
 }
 
 .error {
